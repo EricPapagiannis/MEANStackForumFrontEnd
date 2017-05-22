@@ -25,4 +25,4 @@ One message posted on the boards:
 
 
 A few more messages posted on the board:
-![forumfilled.png](https://raw.githubusercontent.com/EricPapagiannis/MEANStackForumFrontEnd/master/index.png)
+![forumfilled.png](https://raw.githubusercontent.com/EricPapagiannis/MEANStackForumFrontEnd/master/forumfilled.png)
